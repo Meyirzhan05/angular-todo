@@ -35,14 +35,14 @@ export class TestData {
     },
     {
       id: 2,
-      title: 'Uige katsai',
+      title: 'Nan barma',
       priority: TestData.priorities[1],
       completed: false,
       category: TestData.categories[2]
     },
     {
       id: 3,
-      title: 'Uige katsai',
+      title: 'Nan jok',
       priority: TestData.priorities[3],
       completed: false,
       category: TestData.categories[3],
@@ -50,7 +50,7 @@ export class TestData {
     },
     {
       id: 4,
-      title: 'Uige katsai',
+      title: 'Putin bolu',
       priority: TestData.priorities[4],
       completed: false,
       category: TestData.categories[4],
@@ -58,7 +58,7 @@ export class TestData {
     },
     {
       id: 5,
-      title: 'Uige katsai',
+      title: 'Hamood hamodi habibi',
       priority: TestData.priorities[1],
       completed: false,
       category: TestData.categories[5],
@@ -66,21 +66,21 @@ export class TestData {
     },
     {
       id: 6,
-      title: 'Uige katsai',
+      title: 'Men Nazarbaevpyn',
       priority: TestData.priorities[1],
       completed: false,
       category: TestData.categories[6]
     },
     {
       id: 7,
-      title: 'Uige katsai',
+      title: 'Sen kimsin?',
       priority: TestData.priorities[2],
       completed: false,
       category: TestData.categories[7]
     },
     {
       id: 8,
-      title: 'Uige katsai',
+      title: 'Cho tam?',
       priority: TestData.priorities[3],
       completed: false,
       category: TestData.categories[8],
@@ -88,14 +88,14 @@ export class TestData {
     },
     {
       id: 9,
-      title: 'Uige katsai',
+      title: 'Nazarbayevtyn balasymyn',
       priority: TestData.priorities[1],
       completed: false,
       category: TestData.categories[9]
     },
     {
       id: 10,
-      title: 'Uige katsai',
+      title: 'Shal ket!',
       priority: TestData.priorities[2],
       completed: false,
       category: TestData.categories[10],
